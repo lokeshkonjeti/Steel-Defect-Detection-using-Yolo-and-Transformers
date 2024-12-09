@@ -1,0 +1,1 @@
+﻿Links to datasets:Original Dataset: https://www.kaggle.com/c/severstal-steel-defect-detection/dataCOCO Format: For the sake of convince, a zipfile has been provided in the Project DirectoryYOLO Format: For the sake of convince, a zipfile has been provided in the Project Directory
